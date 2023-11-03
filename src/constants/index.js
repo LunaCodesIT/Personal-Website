@@ -224,7 +224,7 @@ import {
       ],
       image: carrent,
 
-      source_code_link: "https://github.com/Lunakill/LunaDigi",
+      source_code_link: "https://github.com/LunaCodesIT/CoolingCo.-Maintenance",
     },
     {
       name: "Cooling Co.",
@@ -247,7 +247,7 @@ import {
 
       image: jobit,
 
-      source_code_link: "hhttps://github.com/Lunakill/coolingco",
+      source_code_link: "https://github.com/LunaCodesIT/CoolingCo.-Maintenance",
     },
     {
       name: "iLunaweb",
@@ -270,7 +270,7 @@ import {
       ],
       image: tripguide,
 
-      source_code_link: "https://github.com/Lunakill/iLunaweb",
+      source_code_link: "https://github.com/LunaCodesIT/iLunaweb",
 
     },
   ];
