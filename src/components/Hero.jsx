@@ -20,7 +20,7 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
 
-            Derived from the first two letters of my names, Luzuko Naki. <br /><br /> Feel free to click and hold on the desk below to spin it around &#128521; 
+            Derived from the first two letters of my names, Luzuko Naki &#128521; 
           </p>
         </div>
       </div>

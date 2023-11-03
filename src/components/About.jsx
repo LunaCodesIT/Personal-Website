@@ -24,7 +24,7 @@ const ServiceCard = ({ index, title, icon }) => {
           speed: 450,
         }}
         className='bg-tertiary rounded-[20px]
-         py-5 px-12 min-h-[280px] flex 
+         py-5 px-12 min-h-[200px] flex 
          justify-evenly items-center flex-col'
         >
            <img
@@ -54,7 +54,7 @@ const About = () => {
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+        className='mt-4 text-secondary text-[17px] max-w-4x2 leading-[35px]'
       >
 
        So yeah, I'm a career-switch guy. <br /> <br /> In other words, I was a full-time BCOM student at Rhodes University majoring
