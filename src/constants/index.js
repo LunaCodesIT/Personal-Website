@@ -147,17 +147,15 @@ import {
       ],
     },
     {
-      title: "Founder & Web Developer",
-      company_name: "Tell-A-Vision Ent.",
-      icon: starbucks,
+      title: "Frontend Developers",
+      company_name: "Helvetia Farms",
+      icon: shopify,
       iconBg: "#000",
-      date: "Feb 2019 - Present",
+      date: "2022",
       points: [
-        "An I.T services small business renamed to iLunaweb. It entails the following:",
-        "Developing and maintaining web applications using React and other related technologies.",
-        "Developing and updating graphics and motion graphics using Photoshop and After Effects.",
-        "Video editing using Premiere Pro.",
-        "Digital Marketing.",
+        "Developed a modern User Interface using HTML, CSS3, JavaScript, and Adobe Photoshop to provide South African farmers information regarding the availability and prices of certain farming products, especially Lucerne for grazing.",
+        "Used Redux to manage app states in a single place and to keep changes more predictable and traceable..",
+       
       ],
     },
   ];
@@ -179,7 +177,6 @@ import {
 
       company: "Equinox Media",
 
-      company: "Kodak",
 
       image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
@@ -190,8 +187,6 @@ import {
       designation: "",
 
       company: "BetCoza",
-
-      company: "PlaneWingz (PTY) LTD",
 
       image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
