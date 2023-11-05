@@ -147,7 +147,7 @@ import {
       ],
     },
     {
-      title: "Frontend Developers",
+      title: "Frontend Developer",
       company_name: "Helvetia Farms",
       icon: shopify,
       iconBg: "#000",
